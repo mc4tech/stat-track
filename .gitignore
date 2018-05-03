@@ -1,0 +1,4 @@
+/node_modules/
+.DS_Stores
+yarn.lock
+/client/node_modules/
